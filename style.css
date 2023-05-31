@@ -5,13 +5,13 @@ body {
 
 .topnav {
   overflow: hidden;
-  background-color: #0bf545;
+  background-color: #0b2ef5;
 }
 
 .topnav a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #161515;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
